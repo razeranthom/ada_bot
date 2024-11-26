@@ -1,0 +1,140 @@
+<<<Introdução>>>
+
+A área de Inteligência Artificial é uma das que mais crescem, tanto pela velocidade de pesquisa como pela demanda de empresas em seus negócios. Todos os setores da economia são ou serão impactados pelas aplicações baseadas em Inteligência Artificial, criando um mercado inovação e competição muito rico.
+
+Assim, este curso visa formar profissionais capacitados a planejar, conduzir, construir e validar soluções baseadas em inteligência artificial.
+
+<<<Informações gerais>>>
+
+Área de conhecimento no CNPq: Computação
+Titulação: Especialista em Inteligência Artificial Aplicada
+Nível: Especialização Lato Sensu
+
+<<<Objetivos>>>
+
+Capacitar o aluno na área de Inteligência Artificial Aplicada aos negócios, tornando-o um ativo estratégico para as organizações.
+
+<<<Objetivos Específicos>>>
+
+- Apresentar a área de Inteligência Artificial (IA);
+- Capacitar o aluno a tratar dados de uma forma consciente para uso da IA;
+- Aplicar técnicas de IA para análise de dados;
+- Capacitar o aluno em arquitetura de dados;
+- Desenvolver a capacidade de discernir sobre técnicas de IA;
+- Apresentar frameworks atuais para aplicação de IA;
+- Transmitir conhecimentos sobre a utilização de modelos, técnicas e ferramentas no âmbito da IA;
+- Conhecer as práticas mais recentes relacionadas a IA, bem como inovações;
+- Favorecer o empreendedorismo;
+- Criar um ambiente de trabalho, suportado com atividades práticas, que permita o desenvolvimento de capacidades de comunicação e trabalho em grupo;
+- Aplicar os conhecimentos adquiridos na resolução de casos práticos.
+
+<<<Público-alvo>>>
+
+Profissionais da área de Informática, com ou sem experiência no mercado de trabalho e com formação em qualquer curso da área de Ciências Exatas e Tecnologia.
+
+<<<Vagas>>>
+
+150 vagas, das quais 15 (quinze) vagas serão sem custo ao aluno e se destinam à funcionários e professores da UFPR e alunos de baixa renda.
+
+<<<Metodologia das Aulas>>>
+
+Totalmente EaD: Aulas gravadas E encontros remotos ao vivo com o professori; Você assiste aos vídeos das aulas e tem encontros remotos aos sábados pela manhã com o professor, para revisão do conteúdo e tira dúvidas; Esse encontro não é obrigatório e ficará gravado para assistir quando desejar
+
+Dedicação aos Estudos: Você precisará se dedicar de 6 a 8 horas semanais para o curso
+
+Ambiente de Ensino: Serão usados os ambientes Moodle (UFPR Virtual) e Microsoft Teams
+
+Interação com os Colegas: Grupo no Telegram para interação entre os colegas; Participação ativa da Tutoria
+
+<<<TCC>>>
+
+O TCC ou Trabalho de Conclusão do Curso é obrigatório na UFPR e é feito como um memorial de projetos, onde você apresenta os projetos que foram desenvolvidos ao longo do curso.
+
+<<<Inscrições>>>
+
+As inscrições para o processo seletivo se iniciam em Dezembro. Essa inscrição não garante a sua matrícula, mas sim a participação no processo seletivo. Depois que forem homologadas as inscrições, os currículos serão analisados e os candidatos serão ordenados por pontuação, sendo que os primeiros colocados garantem a sua vaga no curso.
+
+<<<Processo Seletivo>>>
+
+Os critérios de pontuação para análise de currículo serão publicados no edital de abertura do processo seletivo. Este edital será publicado até início de Dezembro.
+
+<<<Bolsas>>>
+
+São destinadas 10% das vagas para bolsistas, sendo metade delas reservadas para servidores e docentes da UFPR. As demais são destinadas a pessoas com vulnerabilidade econômica, mediante comprovação. Para se candidatar a uma bolsa, você deve estar matriculado no curso, isto é, ter participado do processo seletivo, ter sido selecionado e efetivado a matrícula. Então você precisará se inscrever em edital próprio para implementação das bolsas, que será publicado em Fevereiro.
+
+<<<Disciplinas do Curso>>>
+
+Introdução à Inteligência Artificial
+Linguagem de Programação Aplicada
+Linguagem R
+Estatística Aplicada I
+Estatística Aplicada II
+Arquitetura de Dados
+Visualização de Dados e Story Telling
+Aprendizado de Máquina
+Deep Learning
+Big Data
+Visão Computacional
+Frameworks de IA
+Gestão de Projetos de IA
+Tópicos em IA
+Aspectos Filosóficos e Éticos da Inteligência Artificial
+
+Todas as disciplinas possuem 24 horas aula.
+
+<<<Conteúdo Ementa das Disciplinas>>>
+
+Introdução à Inteligência Artificial: Histórico e princípios da Inteligência Artificial. Resolução de problemas. Busca cega. Busca Heurística. Busca competitiva. Problemas de Satisfação de Restrições. Conhecimento e raciocínio. Lógica e planejamento. Aprendizado de máquina. Aplicações da IA.
+
+Linguagem de Programação Aplicada: Programação em Python. Atribuições, operações e expressões. Controle de fluxo e repetições. Funções. Tipo de dados básicos. Listas, Dicionários, Conjuntos e Tuplas. List Comprehensions. Módulos. Instalação e configuração de ambiente de desenvolvimento. Numpy, Pandas e Sci-kit Learn. Aplicação da linguagem Python em problemas relacionados à Inteligência Artificial utilizando diferentes modelos e estratégias de aprendizado de máquina. 
+
+Linguagem R: Uso do R. Atribuições e operações. Vetores e matrizes. Fatores e Fórmulas. Manipulação de listas e dataframes. Leitura e escrita de arquivos. Programação e scripts. Funções Apply. Estatística básica. Gráficos em R. Resolução de problemas de IA: Classificação e regressão. 
+
+Estatística Aplicada I: Introdução à Estatística Descritiva. Estudo de populações e amostras. Introdução às séries estatísticas. Análise de gráficos. Estudo das medidas de posição e de dispersão. Modelos de Distribuições. Níveis de Confiança. Testes Paramétricos e Testes Não Paramétricos.
+ 
+Estatística Aplicada II: Modelos de Distribuições. Análise de viés e variância. Análise de qualidade de modelos. Níveis de Confiança, Tipos de Erros. Teste de Normalidade: Kolmogorov- Smirnov, Shapiro-Wilks. Testes Paramétricos: Teste t, ANOVA, etc. Testes Não Paramétricos: Friedman, Kruskal-Wallis, etc. Testes post-hoc: Nemenyi, Dunn, etc. 
+
+Arquitetura de Dados: Modelagem de dados estruturados e não-estruturados. Preparação de dados para projetos de aprendizado de máquina, aplicação de técnicas para construção de atributos, seleção, limpeza, codificação de informação, tratamento de dados ausentes, identificação e tratamento de ruídos na informação, identificação e tratamento de atributos correlacionados. Aplicação de métodos computacionais para preparação e tratamento dos dados. 
+
+Visualização de Dados e Story Telling: Histórico da Visualização de Dados. Tipos e métodos de VD. Melhores práticas e princípios da VD. Data Storytelling. Aplicações da visualização de dados. 
+
+Aprendizado de Máquina: Introdução ao aprendizado de máquina. Aprendizado supervisionado, não-supervisionado e por reforço. Tarefas: Regressão, Classificação, Agrupamento e Associação. Técnicas: Redes Neurais Artificiais, Máquinas de Vetores de Suporte, Indução de Árvores de Decisão, Regras de Associação, KNN, K-means, Apriori. Avaliação de modelos. Métricas de qualidade de modelos: R2, RMSE, Matriz de Confusão. 
+
+Deep Learning: Introdução ao deep learning. Conceitos básicos. Deep Learning aplicado à visão computacional: redes neurais convolucionais (CNN), redes adversariais generativas (GAN). Redes neurais recorrentes: simples, GRU e LSTM. Deep Learning aplicado ao processamento de linguagem natural: embeddings, modelos de linguagens, modelos de atenção. Transformers. 
+
+Big Data: Principais conceitos de Big Data e Ciência de Dados. Armazenamento e gerenciamento de Big Data. Data Lake para uso de IA em BigData. Principais tecnologias e ferramentas para a análise e solução de problemas reais em Big Data, envolvendo dados estáticos (batch) ou em movimento (streaming), e estruturados, semi e não estruturados. 
+
+Visão Computacional: Introdução à visão computacional. Aquisição de imagem e sensores de visão. Pré-processamento, segmentação de imagens, descrição, reconhecimento de padrões e decisão. Utilização de Redes Neurais Convolucionais (modelos e aplicações), preparação dos dados, data augmentation, transferência de aprendizado e fine tuning. 
+
+Frameworks de IA: Frameworks comerciais de IA e ciência de dados. Tensorflow. Resolução de problemas com Tensorflow: Regressão e classificação. CNNs. RNNs. Séries temporais. GANs. Processamento de linguagem natural. 
+
+Gestão de Projetos de IA: Workflow de inteligência artificial. Gerenciamento tradicional de projetos. Gerenciamento ágil de projetos. Práticas de gerenciamento de projetos aplicadas ao desenvolvimento de soluções de inteligência artificial.
+
+Tópicos em IA: Lógica Fuzzy. Algoritmos Genéticos. Identificação e tratamento de séries temporais. 
+
+Aspectos Filosóficos e Éticos da Inteligência Artificial: Introdução à Inteligência Artificial e Ética. Tomada de Decisão e Viés em IA. Privacidade e Segurança em IA. Autonomia e Responsabilidade. Implicações Sociais e Filosofia da Mente. Futuro da IA e Ética.
+
+<<<Dados do Curso>>>
+
+Modalidade: Totalmente EaD
+Aulas: Assíncronas (aulas todas gravadas)
+Encontros remotos/síncronos: Sábado pela manhã (opcionais)
+Início das Aulas: Fevereiro/2025
+Nível: Especialização Lato Sensu
+Carga Horária: 360 h
+Valor do Investimento Mensalidade: 18x R$ 399,00
+Não há taxa de matrícula.
+Data do pagamento é todo dia 10. Os pagamentos iniciam em 10 de março.
+E-mail da coordenação: iaa@ufpr.br
+
+<<<Formulário de Interessados>>>
+
+https://forms.gle/ARt1LL6x6JhmQZ5W9
+
+<<<Redes Sociais>>>
+
+Instagram: @iaa.ufpr.br
+Facebook: iaa.ufpr.br
+Linkedin: iaa-ufpr-br
+Twitter: iaa_ufpr_br
+Telegram: @iaa_ufpr_br
