@@ -2,12 +2,12 @@
 
 Código de exemplo de implementação de um Chatbot para o curso de [Especialização em IA Aplicada da UFPR](https://iaa.ufpr.br).
 
-## Installation
+## Instalação das bibliotecas
 
 A ser escrito.
 
 ```bash
-pip install openai
+pip install -r requirements.txt
 ```
 
 ## Contribuição
